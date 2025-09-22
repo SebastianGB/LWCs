@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>ContactCreated</masterLabel>
+    <isExposed>true</isExposed>
+    <description>Message Channel between the Contact Create and Contact List LWCs.</description>
+</LightningMessageChannel>
